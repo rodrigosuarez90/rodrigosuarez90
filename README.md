@@ -2,53 +2,69 @@
 ### Cybersecurity Specialist & Full-Stack Developer  
 
 <div align="center">
-<img src="https://avatars.githubusercontent.com/rodrigosuarez90" alt="Rodrigo Suarez" width="200" style="border-radius: 50%;"/>
-![Visitor Count](https://komarev.com/gh/rodrigosuarez90)
+  
+<img src="https://avatars.githubusercontent.com/rodrigosuarez90" alt="Rodrigo Suarez" width="200" style="border-radius: 50%; border: 4px solid #2E86C1;"/>
+
+![Visitors](https://komarev.com/gh/rodrigosuarez90?color=2E86C1&label=PROFILE+VIEWS)
+![GitHub](https://img.shields.io/github/followers/rodrigosuarez90?label=Follow&style=social)
+![Repositories](https://badgen.net/github/repos/rodrigosuarez90)
+
 </div>
 
 ---
 
-## 🛡️ Professional Profile
+## 🛡️ Professional Summary
 
-Cybersecurity professional specializing in **penetration testing**, **vulnerability assessment**, and **secure application development**. Focused on building robust, secure systems and proactive threat identification.
+Cybersecurity expert with advanced skills in **penetration testing**, **vulnerability assessment**, and **secure software development**. Specialized in identifying security vulnerabilities and implementing robust defense mechanisms. Proven track record in developing secure, scalable applications while maintaining cutting-edge knowledge of emerging threats and security technologies.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-![Rodrigo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigosuarez90&show_icons=true&theme=radical&hide_title=false&count_private=true&include_all_commits=true&line_height=24.5)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rodrigosuarez90&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigosuarez90&layout=compact&theme=radical&langs_count=8&hide_border=false)
+
+| **Statistics** | **Languages** | **Achievements** |
+|:--------------:|:-------------:|:----------------:|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigosuarez90&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigosuarez90&layout=compact&theme=algolia&hide_border=true&langs_count=8) | ![Trophies](https://github-profile-trophy.vercel.app/?username=rodrigosuarez90&theme=algolia&no-frame=true&row=2&column=4) |
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=rodrigosuarez90&theme=algolia&hide_border=true)
+
 </div>
 
 ---
 
-## ⭐ Highlights & Achievements
+## 🔧 Technical Stack
 
+### **🛡️ Cybersecurity Expertise**
 <div align="center">
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rodrigosuarez90&theme=radical&no-frame=true&row=2&column=4)
+
+| **Domain** | **Proficiency** | **Tools & Frameworks** |
+|------------|-----------------|------------------------|
+| **Penetration Testing** | ⭐⭐⭐⭐⭐ | Metasploit, Burp Suite, Nmap |
+| **Vulnerability Assessment** | ⭐⭐⭐⭐⭐ | Nessus, OpenVAS, OWASP ZAP |
+| **Network Security** | ⭐⭐⭐⭐☆ | Wireshark, Snort, Nmap |
+| **Threat Intelligence** | ⭐⭐⭐⭐☆ | MITRE ATT&CK, MISP |
+| **Incident Response** | ⭐⭐⭐⭐☆ | Volatility, Autopsy |
+
 </div>
-
----
-
-## 🔧 Technical Expertise
-
-### **🛡️ Security Domains**
-- `✅ Penetration Testing` `✅ Vulnerability Assessment` `✅ Network Security`
-- `✅ Threat Modeling` `✅ Security Audits` `✅ Incident Response`
-- `✅ OWASP Top 10` `✅ NIST Framework` `✅ MITRE ATT&CK`
 
 ### **💻 Development Stack**
 ```javascript
-// 🟢 Frontend (Advanced)
-React • Vue.js • HTML5 • CSS3 • JavaScript ES6+
-
-// 🟢 Backend (Advanced)  
-Node.js • Python • Express • Django • REST APIs
-
-// 🟡 Database (Proficient)
-MySQL • PostgreSQL • MongoDB • Redis
-
-// 🟡 Infrastructure (Proficient)
-Docker • Kubernetes • AWS • Git • CI/CD
+const rodrigoStack = {
+  frontend: {
+    advanced: ["React", "Vue.js", "TypeScript", "HTML5/CSS3"],
+    proficient: ["Angular", "SASS", "Webpack"]
+  },
+  backend: {
+    advanced: ["Node.js", "Python", "Express", "Django"],
+    proficient: ["FastAPI", "Flask", "REST/GraphQL APIs"]
+  },
+  database: {
+    advanced: ["MySQL", "PostgreSQL", "MongoDB"],
+    proficient: ["Redis", "Elasticsearch", "Firebase"]
+  },
+  devops: {
+    advanced: ["Docker", "AWS", "Git", "CI/CD"],
+    proficient: ["Kubernetes", "Terraform", "Jenkins"]
+  }
+};
