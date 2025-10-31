@@ -3,8 +3,6 @@
 
 <div align="center">
   
-<img src="https://avatars.githubusercontent.com/rodrigosuarez90" alt="Rodrigo Suarez" width="200" style="border-radius: 50%; border: 4px solid #2E86C1;"/>
-
 ![Visitors](https://komarev.com/gh/rodrigosuarez90?color=2E86C1&label=PROFILE+VIEWS)
 ![GitHub](https://img.shields.io/github/followers/rodrigosuarez90?label=Follow&style=social)
 ![Repositories](https://badgen.net/github/repos/rodrigosuarez90)
