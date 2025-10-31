@@ -1,16 +1,31 @@
-## Hi there 👋
+# Rodrigo Suarez
+### Cybersecurity Specialist & Full-Stack Developer
 
-<!--
-**rodrigosuarez90/rodrigosuarez90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛡️ Professional Profile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Cybersecurity professional specializing in **penetration testing**, **vulnerability assessment**, and **secure application development**. Focused on building robust, secure systems and proactive threat identification.
+
+---
+
+## 🔧 Technical Expertise
+
+### **Security Domains**
+- `Penetration Testing` `Vulnerability Assessment` `Network Security`
+- `Threat Modeling` `Security Audits` `Incident Response`
+- `OWASP Top 10` `NIST Framework` `MITRE ATT&CK`
+
+### **Development Stack**
+```javascript
+// Frontend
+React • Vue.js • HTML5 • CSS3 • JavaScript ES6+
+
+// Backend  
+Node.js • Python • Express • Django • REST APIs
+
+// Database
+MySQL • PostgreSQL • MongoDB • Redis
+
+// Infrastructure
+Docker • Kubernetes • AWS • Git • CI/CD
